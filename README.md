@@ -34,6 +34,7 @@ Census gives us local data on the characteristics of people and housing. Things 
 - Tabular data (i.e., spreadsheets)
     - [American Factfinder](https://factfinder.census.gov/faces/nav/jsf/pages/index.xhtml) is an interactive search tool (data for years 2000 - present)
     - [Developer APIs](https://www.census.gov/developers/) for when you want to download things programmatically (1990 - present)
+    - [LTDB](https://s4.ad.brown.edu/projects/diversity/Researcher/Bridging.htm) lets you normalized old Census tract data to the 2010 borders
     - [IPUMS](https://usa.ipums.org/usa/) lets you compile all sorts of interesting statistics based on the underlying microdata
     - [NHGIS](https://www.nhgis.org/) has a good amount of data going way back, often at the tract-level (1790 - present)
 - Geographic data (i.e., Shapefiles)
