@@ -84,7 +84,7 @@ A quick and dirty way of joining polygons to polygons is to say a set of polygon
 
 Census tract borders change from decade to decade. This makes it hard to get a reliable time series for a given neighborhood. The [Longitudinal Tract Data Base (LTDB)](https://s4.ad.brown.edu/projects/diversity/Researcher/Bridging.htm) lets you take old Census tract data (as far back as 1970) and get estimates that line up with the 2010 Census tracts for all years.
 
-#### Changes to tracts from 1970 (green) to 2010 (black)
+#### Changes to tracts from 1970 (black) to 2010 (green)
 ![Tract changes](media/tract-changes.png)
 
 The technique boils down to calculating how much the old polygons intersect with the new and then taking weighted averages using the area size and population as weights. One nice this with this is you can combine geographies that have fairly different borders like tracts, police districts, voting wards.
