@@ -1,6 +1,6 @@
 # Geographic data within your city
 
-City averages gloss over a lot of important detail. Here are some tips for finding data and combining intra-city geographic data.
+City averages gloss over a lot of important detail. Here are some tips for finding data and combining intra-city geographic data with the primary focus being on Census data.
 
 # Finding local geographic data
 
